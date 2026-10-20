@@ -1,0 +1,43 @@
+body{
+margin-left: 0%;
+margin-right: 0%;
+}
+
+.tituloi{
+  color: red;
+  font-family:'Times New Roman', Times, serif;
+  font-style: oblique;
+  font-display: block
+}
+
+.backgroundimagepai{
+  position: relative;
+  width: 100%;
+  display: inline-block;
+  width: 100%
+}
+
+.backgroundimagepai h1{
+  position: absolute;
+  font-size: 1000%;
+  top:  27%;
+  left: 70%
+}
+
+.backgroundimagepai img{
+  width: 100%;
+  height: auto;
+  display: block
+}
+
+header{
+  width: 100px;
+  height: 100px;
+}
+
+header h1{
+  color: rgb(255, 0, 0);
+  font-family:'Times New Roman', Times;
+  margin-top: 50%;
+  margin-left: 50%
+}
